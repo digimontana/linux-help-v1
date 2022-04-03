@@ -1,0 +1,103 @@
+Before everything, DEFINE YOURSELF.
+what are you trying to accomplish ? hacking an instagram ? "borrowing" a Database ?
+
+Your goals are up to you whatever it is, but be aware you need to have a goal and you need to take a series of steps which require WORK, there is no magic solution, no silver bullet. you need to WORK.
+
+RECONNAISSANCE
+First off you need to read like there is no tomorrow, here are some resources that will help you get the books you need.
+Find books from authors like Kevin Mitnick (although personally i had some dissatisfaction after reading it) which will lead you to understand what sort of possible capabilities to develop and look into, and it will be a good intro to the "hacker" mindset.
+
+But most importantly you need to READ the technical ones as well, yes they are a bit confusing at times but that's the purpose. Some examples are:
+- Bash Guide for Beginners
+- Firewalls for Dummies
+- Hacking and Network Defense
+- Jolly Rogers's Security for Beginners.
+- Art of Persuasion
+
+These are just some examples, but there are many other great books that you need to find out for yourself because research is going to be essential for your path. you need to get familiarized with Networking concepts.
+
+there is a structure to what you are going to be doing so you must have a structure of learning, be systematic, be determined. you are going to get there eventually but you are going to hit brick walls. many times. keep trying. BE SYSTEMATIC.
+
+Youtube is also your friend, you can look up for some good channels that explain thing thoroughly but you need to read. Also take notes while you are reading (but like physically write it down). It also helps to explain concepts to a third person because they will sometimes ask you questions that will leave you wondering if you missed something.
+
+Here is the structure of what you will attempt to do in the future.
+(from the ECH cheat sheet)
+
+SCANNING
+
+Attack Phases
+1. Reconnaissance
+Information gathering, physical and social engineering, locate network range
+2. Scanning - Enumerating Live hosts, access points, accounts and policies, vulnerability assessment
+3. Gaining Access
+Breech systems, plant malicious code, backdoors
+4. Maintaining Access Rootkits, unpatched systems
+5. Clearing Tracks IDS evasion,log manipulation, decoy traffic
+
+Information Gathering
+1. Unearth initial information What/ Who is the target?
+2. Locate the network range What is the attack surface?
+3. Ascertain active machines What hosts are alive?
+4. Open ports / access points How can they be accessed?
+5. Detect operating systems What platform are they?
+6. Uncover services on ports What software can be attacked?
+7. Map the network Tie it all together, document, and form a strategy
+
+So, you already did your recon, you are here looking at this post trying to figure out where to get the actual information you need. Im just a random stranger telling you what the road could look like but you are the random stranger that will decide to pave it or go back to finding the mystical snake oil hack like a lazy basement dweller.
+
+You Scanned all the phases involved now you realized which points you need to study and work on so that you develop a moderate amount of knowledge on the many subjects you are about to start reading on. if you find something moderately useful, then copy paste that shit into an ODT or TXT whatever rocks your boat and save that shit you will probably go back and look at it. (information gathering, yay you are already applying the concepts, now stop patting your back and go back to work)
+
+GAINING ACCESS.
+PRACTICE.
+(borrowed this list from another post, would give credits but forgot where is it)
+
+
+- Crackmes - download crackmes to help improve your reverse engineering skills.
+- Microcorruption - reversal challenges are done in the web interface.
+- Pentestit - emulate IT infrastructures of real companies for legal pen testing and improving penetration testing skills.
+- Ubeeri - preconfigured lab environments.
+- RingZer0 - tons of challenges designed to test and improve your hacking skills.
+- PentesterLab - provides vulnerable systems that can be used to test and understand vulnerabilities.
+- Wizard Labs - is an online Penetration Testing Lab.
+- OverTheWire - can help you to learn and practice security concepts in the form of fun-filled games.
+- hackxor - is a realistic web application hacking game, designed to help players of all abilities develop their skills.
+- TryHackMe - learning Cyber Security made easy.
+- rozwal.to - a great platform to train your pentesting skills.
+- Root Me - the fast, easy, and affordable way to train your hacking skills.
+- Practical Pentest Labs - pentest lab, take your Hacking skills to the next level.
+- Silesia Security Lab - high-quality security testing services.
+- CTFlearn - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge and skills.
+- picoCTF - is a free computer security game targeted at middle and high school students.
+- Pwnable.tw - is a wargame site for hackers to test and expand their binary exploiting skills.
+- pwnable.kr - non-commercial wargame site which provides various pwn challenges regarding system exploitation.
+- Hacking-Lab - online ethical hacking, computer network, and security challenge platform.
+- Hack The Box - online platform allowing you to test your penetration testing skills.
+- Offensive Security - true performance-based penetration testing training for over a decade.
+- DVWA - Damn Vulnerable Web Application
+- Mutilladae - OWASP
+
+MAINTAINING ACCESS
+It has been a while, welcome back you have some knowledge under your belt, maybe you already tried your first educational phising campaign, you read a couple of books on different subjects not just computational maybe even some psychology. you are feeling damn good like you know stuff.
+you still dont ! (neither do I)
+Learning cant stop wont stop, its continuous and you need to keep learning, keep reading otherwise your tools rust, go follow some of the reading material that will keep you updated, sign up for some CSIRT newsletter that will keep you aware of the latest vulnerabilities, go read DarkReading (just an example), and follow some industry leaders to understand what are their preferred sources.
+-https://www.darkreading.com/
+-https://www.bleepingcomputer.com/
+-https://thehackernews.com/
+-blackhillsinfosec.com/blog/
+-https://www.zdnet.com/
+-https://threatpost.com/
+-https://www.helpnetsecurity.com/
+-https://www.csoonline.com/
+-https://www.nakedsecurity.sophos.com
+
+
+
+CLEARING TRACKS.
+
+Common sense goes a long way.
+
+BE SYSTEMATIC.
+Develop a routine that works. backtrack if you need to there is nothing wrong with going back and listening to a podcast on "Intro to cybersecurity" you already know a bunch of stuff and this is probably past your learning point but you can meditate and rediscover things if you trace your steps.
+
+
+i hope this helps you understand that without commitment and work you are not going to get the magic stick you though you were going to find. life is tough, be tougher on yourself. 
